@@ -1,0 +1,17 @@
+body{
+    background-image: url("6978773.webp");
+}
+
+.bg_frame{
+    background-color: black;
+    opacity: 0.5;
+    grid: 100%;
+    height: 100px;
+    width: 600px;
+    margin: 10%;
+    margin-left: 700px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
